@@ -207,6 +207,9 @@
 		BC905ACB1776F7DC00D669D9 /* HttpClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BC905ACA1776F7DC00D669D9 /* HttpClient.cpp */; };
 		BC905AD41776F7DC00D669D9 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BC905AD31776F7DC00D669D9 /* AppDelegate.cpp */; };
 		BC905AD71776F7DC00D669D9 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BC905AD61776F7DC00D669D9 /* HelloWorldScene.cpp */; };
+		BC905ADF177700F400D669D9 /* font_red_14.fnt in Resources */ = {isa = PBXBuildFile; fileRef = BC905ADD177700F400D669D9 /* font_red_14.fnt */; };
+		BC905AE0177700F400D669D9 /* font_red_14.png in Resources */ = {isa = PBXBuildFile; fileRef = BC905ADE177700F400D669D9 /* font_red_14.png */; };
+		BC905AE21777016A00D669D9 /* fps_images.png in Resources */ = {isa = PBXBuildFile; fileRef = BC905AE11777016A00D669D9 /* fps_images.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -650,6 +653,9 @@
 		BC905AD31776F7DC00D669D9 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		BC905AD51776F7DC00D669D9 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		BC905AD61776F7DC00D669D9 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		BC905ADD177700F400D669D9 /* font_red_14.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = font_red_14.fnt; sourceTree = "<group>"; };
+		BC905ADE177700F400D669D9 /* font_red_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = font_red_14.png; sourceTree = "<group>"; };
+		BC905AE11777016A00D669D9 /* fps_images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fps_images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -719,6 +725,9 @@
 		BC9058351776F7D300D669D9 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				BC905AE11777016A00D669D9 /* fps_images.png */,
+				BC905ADD177700F400D669D9 /* font_red_14.fnt */,
+				BC905ADE177700F400D669D9 /* font_red_14.png */,
 				BC9058361776F7D300D669D9 /* CloseNormal.png */,
 				BC9058381776F7D300D669D9 /* CloseSelected.png */,
 				BC90583A1776F7D300D669D9 /* Default.png */,
@@ -1620,6 +1629,9 @@
 				BC9058491776F7D300D669D9 /* Icon@2x.png in Resources */,
 				BC90584B1776F7D300D669D9 /* iTunesArtwork in Resources */,
 				BC9058DD1776F7D500D669D9 /* ChangeLog in Resources */,
+				BC905ADF177700F400D669D9 /* font_red_14.fnt in Resources */,
+				BC905AE0177700F400D669D9 /* font_red_14.png in Resources */,
+				BC905AE21777016A00D669D9 /* fps_images.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
